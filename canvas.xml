@@ -541,7 +541,7 @@ s.setAttribute('data-timestamp', +new Date());(d.head || d.body).appendChild(s);
   
 <!-- Post:card -->  
 <b:includable id='post:card'>
-<div class='col-3 med-col-2 peq-col-1 gap-32'>
+
 <b:loop values='data:items ?: data:posts' var='post'>          
 <article class='card bg-white-dark sh-sm'>
 <a class='card-content' expr:href='data:post.url.canonical'>
@@ -558,7 +558,7 @@ s.setAttribute('data-timestamp', +new Date());(d.head || d.body).appendChild(s);
 </article>
 <b:include name='post:inlineAd'/>
 </b:loop>
-</div>
+
 </b:includable>
   
 
