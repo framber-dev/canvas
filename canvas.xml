@@ -3,7 +3,7 @@
 <html b:css='false' b:defaultwidgetversion='2' b:js='true' b:layoutsVersion='3' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale' >
 <b:include name='m:root'/>
 
-<!-- Canvas.xml v1.0.0 | Created by https://zkreations.com/ Modificado por Framber Ereu | License MIT -->
+<!-- Canvas.xml v1.0.0 beta | Created by https://zkreations.com/ Modificado por Framber Ereu | License MIT -->
 
 <head>
 	
