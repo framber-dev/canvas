@@ -58,7 +58,6 @@ body{
 font-family: "open sans", arial;
 }
 
-
 ]]></b:skin>
 <b:else/>
 <b:template-skin><![CDATA[
