@@ -3,7 +3,7 @@
 <html b:css='false' b:defaultwidgetversion='2' b:js='true' b:layoutsVersion='3' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <b:include name='m:root'/>
 
-<!-- Canvas.xml v1.0.0 | Developed by Framber Ereu | License MIT -->
+<!-- Canvas.xml v1.0.0 | Created by https://zkreations.com/ Modificado por Framber Ereu | License MIT -->
 
 <head>
 	
